@@ -5,7 +5,8 @@
  */
 
 #include <dt-bindings/zmk/matrix_transform.h>
-#include <layouts/josefadamcik/sofle.dtsi>
+#include "sofle-layout.dtsi"
+
 
 &sofle_layout {
     transform = <&default_transform>;
