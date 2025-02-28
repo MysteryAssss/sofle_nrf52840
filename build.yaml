@@ -22,4 +22,4 @@ include:
 # ZMK STUDIO enable here 
     snippet: studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y
-    artifact-name: mystery_ms60_studio
+    artifact-name: mystery_sofle_studio
