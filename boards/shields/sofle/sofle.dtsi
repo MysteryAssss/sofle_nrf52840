@@ -5,11 +5,11 @@
  */
 
 #include <dt-bindings/zmk/matrix_transform.h>
-#include "sofle-layout.dtsi"
-#include <physical_layouts.dtsi>
+#include <layouts/josefadamcik/sofle.dtsi>
 
-&sofle_layout {
+&josefadamcik_sofle_layout {
     transform = <&default_transform>;
+};
 
 / {
     chosen {
