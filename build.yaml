@@ -22,5 +22,6 @@ include:
     
   - board: nice_nano_v2
     shield: sofle_right
+        cmake-args: -DCONFIG_ZMK_STUDIO=y
 # ZMK STUDIO enable here 
 
